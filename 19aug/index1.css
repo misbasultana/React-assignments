@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");   
+}
+
+main{
+    padding: 10vh;
+    position: relative;
+    display: flexbox;
+    position: relative;
+    text-align: center;
+}
+
+p{
+    margin-top: 50px;
+    color: rgb(19, 2, 40);
+    font-size: 30px;
+    font-weight: 900;
+}
+
+input{
+    border: 1px solid grey;
+    padding: 20px;
+    border-radius: 30px;
+}
+
